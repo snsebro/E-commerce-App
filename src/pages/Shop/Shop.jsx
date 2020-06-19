@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import CollectionPreview from '../../../components/CollectionPreview/CollectionPreview'
+import CollectionPreview from '../../components/CollectionPreview/CollectionPreview'
 
-const collections = require('../../../collections')
+const collections = require('../../collections')
 
 export default class Shop extends Component {
   constructor() {
