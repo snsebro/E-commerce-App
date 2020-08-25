@@ -6,57 +6,56 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        name: 'Black Cap',
+        imageUrl: 'https://i.ibb.co/0fbVNSY/habib-ayoade-Nh-WW-RW1q-O0-unsplash.jpg',
         price: 25
       },
       {
         id: 2,
-        name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        name: 'Blue Bucket',
+        imageUrl: 'https://i.ibb.co/XC018GB/ray-tiller-ee1w-HJZd-34-unsplash.jpg',
         price: 18
       },
       {
         id: 3,
-        name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        name: 'New York',
+        imageUrl: 'https://i.ibb.co/d2db0kN/atharva-tulsi-6ftd4-Rg-Udnk-unsplash.jpg',
         price: 35
       },
       {
         id: 4,
-        name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        name: 'Navy Beanie',
+        imageUrl: 'https://i.ibb.co/YpgxLZp/khamkeo-vilaysing-4-l8-Xz-Xf-WWk-unsplash.jpg',
         price: 25
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
+        name: 'Beige Cap',
+        imageUrl: 'https://i.ibb.co/1QvtXxN/ian-dooley-ufl6s-F3-VSLI-unsplash.jpg',
         price: 18
       },
       {
         id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+        name: 'Beige Beanie',
+        imageUrl: 'https://i.ibb.co/30VxMcx/mat-reding-Fn-JGha-GB9u-I-unsplash.jpg',
         price: 14
       },
       {
         id: 7,
-        name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
+        name: 'Black Snapback',
+        imageUrl: 'https://i.ibb.co/9ZXgtz1/will-malott-x-Bb-IW24a-L7o-unsplash.jpg',
         price: 18
       },
       {
         id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
+        name: 'Navy Cap',
+        imageUrl: 'https://i.ibb.co/rxXbZ9H/taylor-Xqb7-Gm-V-Vo-Q-unsplash.jpg',
         price: 14
       },
       {
         id: 9,
-        name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-        price: 16
+        name: 'Khaki Adjustable',
+        imageUrl: 'https://i.ibb.co/h18Ps4m/taylor-Qc-Mlu-W4x56k-unsplash.jpg'
       }
     ]
   },

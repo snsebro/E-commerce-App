@@ -6,57 +6,57 @@ const SHOP_DATA = {
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
+        name: 'Black Cap',
+        imageUrl: 'https://i.ibb.co/0fbVNSY/habib-ayoade-Nh-WW-RW1q-O0-unsplash.jpg',
         price: 25
       },
       {
         id: 2,
-        name: 'Blue Beanie',
-        imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
+        name: 'Blue Bucket',
+        imageUrl: 'https://i.ibb.co/XC018GB/ray-tiller-ee1w-HJZd-34-unsplash.jpg',
         price: 18
       },
       {
         id: 3,
-        name: 'Brown Cowboy',
-        imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
+        name: 'New York',
+        imageUrl: 'https://i.ibb.co/d2db0kN/atharva-tulsi-6ftd4-Rg-Udnk-unsplash.jpg',
         price: 35
       },
       {
         id: 4,
-        name: 'Grey Brim',
-        imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+        name: 'Navy Beanie',
+        imageUrl: 'https://i.ibb.co/YpgxLZp/khamkeo-vilaysing-4-l8-Xz-Xf-WWk-unsplash.jpg',
         price: 25
       },
       {
         id: 5,
-        name: 'Green Beanie',
-        imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
+        name: 'Beige Cap',
+        imageUrl: 'https://i.ibb.co/1QvtXxN/ian-dooley-ufl6s-F3-VSLI-unsplash.jpg',
         price: 18
       },
       {
         id: 6,
-        name: 'Palm Tree Cap',
-        imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+        name: 'Beige Beanie',
+        imageUrl: 'https://i.ibb.co/30VxMcx/mat-reding-Fn-JGha-GB9u-I-unsplash.jpg',
         price: 14
       },
       {
         id: 7,
-        name: 'Red Beanie',
-        imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
+        name: 'Black Snapback',
+        imageUrl: 'https://i.ibb.co/9ZXgtz1/will-malott-x-Bb-IW24a-L7o-unsplash.jpg',
         price: 18
       },
       {
         id: 8,
-        name: 'Wolf Cap',
-        imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
+        name: 'Navy Cap',
+        imageUrl: 'https://i.ibb.co/rxXbZ9H/taylor-Xqb7-Gm-V-Vo-Q-unsplash.jpg',
         price: 14
       },
       {
         id: 9,
-        name: 'Blue Snapback',
-        imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-        price: 16
+        name: 'Khaki Adjustable',
+        imageUrl: 'https://i.ibb.co/h18Ps4m/taylor-Qc-Mlu-W4x56k-unsplash.jpg',
+        price: 25
       }
     ]
   },
@@ -67,50 +67,50 @@ const SHOP_DATA = {
     items: [
       {
         id: 10,
-        name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        name: 'Black Air Max',
+        imageUrl: 'https://i.ibb.co/c3bnmCq/ryan-plomp-mk-Elzh0q28-E-unsplash.jpg',
         price: 220
       },
       {
         id: 11,
-        name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+        name: 'White Nike',
+        imageUrl: 'https://i.ibb.co/cLjWRL1/ryan-plomp-by-SPt2ly-Szg-unsplash.jpg',
         price: 280
       },
       {
         id: 12,
-        name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+        name: 'Burgundy Jordan',
+        imageUrl: 'https://i.ibb.co/Y2w4vhM/lefteris-kallergis-Wte7upc-KIVo-unsplash.jpg',
         price: 110
       },
       {
         id: 13,
         name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+        imageUrl: 'https://i.ibb.co/56fVp6V/nathan-jongerius-dbi-ZRVk-RQk-unsplash.jpg',
         price: 160
       },
       {
         id: 14,
-        name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+        name: 'White Reebok',
+        imageUrl: 'https://i.ibb.co/TW90gDB/maureen-de-wit-c-Eot-30k978-unsplash-1.jpg',
         price: 160
       },
       {
         id: 15,
-        name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+        name: 'Nike Pink High Tops',
+        imageUrl: 'https://i.ibb.co/pKswcSS/nicholas-bui-t-DWQJZ0-USow-unsplash.jpg',
         price: 160
       },
       {
         id: 16,
-        name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+        name: 'Orange Air Max',
+        imageUrl: 'https://i.ibb.co/8KSYC31/lefteris-kallergis-j1-Gi-Plv-SGWI-unsplash.jpg',
         price: 190
       },
       {
         id: 17,
-        name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+        name: 'Green Converse',
+        imageUrl: 'https://i.ibb.co/tM3Kc4T/kristian-egelund-89-KUVQJE00-Y-unsplash.jpg',
         price: 200
       }
     ]
@@ -122,32 +122,32 @@ const SHOP_DATA = {
     items: [
       {
         id: 18,
-        name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+        name: 'Black Shearling',
+        imageUrl: 'https://i.ibb.co/jJcRJWp/prince-akachi-7j9j-NQx-XUCU-unsplash.jpg',
         price: 125
       },
       {
         id: 19,
-        name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+        name: 'Black Windbreaker',
+        imageUrl: 'https://i.ibb.co/fvS3N7W/mark-adriane-b-O3-S03-I2-Aw8-unsplash.jpg',
         price: 90
       },
       {
         id: 20,
-        name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+        name: 'Black Utility',
+        imageUrl: 'https://i.ibb.co/cQ1HBzy/toa-heftiba-f-La-B8-Ll-EMNo-unsplash.jpg',
         price: 90
       },
       {
         id: 21,
-        name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+        name: 'Black Varsity',
+        imageUrl: 'https://i.ibb.co/CPMVsqR/nathan-dumlao-x-Jo-T-Jj-PK3-E-unsplash.jpg',
         price: 165
       },
       {
         id: 22,
-        name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+        name: 'Black Leather',
+        imageUrl: 'https://i.ibb.co/kBDhG62/roland-denes-JD6h3h9-Ubk-unsplash.jpg',
         price: 185
       }
     ]
@@ -159,44 +159,44 @@ const SHOP_DATA = {
     items: [
       {
         id: 23,
-        name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+        name: 'Blue Croptop',
+        imageUrl: 'https://i.ibb.co/rc6d0J0/mike-von-Qko-DQUBj-MKk-unsplash.jpg',
         price: 25
       },
       {
         id: 24,
-        name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+        name: 'Neon Top',
+        imageUrl: 'https://i.ibb.co/HKnDWzN/mike-von-tz-Bzkx-MOHGQ-unsplash.jpg',
         price: 20
       },
       {
         id: 25,
-        name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+        name: 'Burgundy Top',
+        imageUrl: 'https://i.ibb.co/XzPwxbf/mike-von-OECfw-NARm-YM-unsplash.jpg',
         price: 80
       },
       {
         id: 26,
-        name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+        name: 'Jean Jacket',
+        imageUrl: 'https://i.ibb.co/ysGgL7v/humphrey-muleba-BYRssg-BTb-Aw-unsplash.jpg',
         price: 80
       },
       {
         id: 27,
-        name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+        name: 'White Hoodie',
+        imageUrl: 'https://i.ibb.co/NTVrYFt/vin-stratton-V1d-X9-O1-B4p-M-unsplash.jpg',
         price: 45
       },
       {
         id: 28,
-        name: 'Yellow Track Suit',
-        imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
+        name: 'Pink T-shirt',
+        imageUrl: 'https://i.ibb.co/7KHT3r0/robert-andall-h2d-Y1o-3rp0-unsplash.jpg',
         price: 135
       },
       {
         id: 29,
-        name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+        name: 'White Graphic T-shirt',
+        imageUrl: 'https://i.ibb.co/nk4p2dy/mike-von-Ay-Bz3fc-Zj-X4-unsplash.jpg',
         price: 20
       }
     ]
@@ -208,38 +208,38 @@ const SHOP_DATA = {
     items: [
       {
         id: 30,
-        name: 'Camo Down Vest',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+        name: 'Stripped T-shirt',
+        imageUrl: 'https://i.ibb.co/xgWTH4d/mohammad-faruque-Sp-IKPT8ze-As-unsplash.jpg',
         price: 325
       },
       {
         id: 31,
-        name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+        name: 'Vartsity Jacket',
+        imageUrl: 'https://i.ibb.co/XjB57y9/quaid-lagan-92-YQRw3-I-unsplash.jpg',
         price: 20
       },
       {
         id: 32,
-        name: 'Black & White Longsleeve',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+        name: 'Black T-shirt',
+        imageUrl: 'https://i.ibb.co/5WmKzxT/frankie-cordoba-7c-BAngjv-lw-unsplash.jpg',
         price: 25
       },
       {
         id: 33,
-        name: 'Pink T-shirt',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
+        name: 'Graphic T-shirt',
+        imageUrl: 'https://i.ibb.co/t4Njz4m/frankie-cordoba-Bv-Pd5zf-I-YY-unsplash.jpg',
         price: 25
       },
       {
         id: 34,
-        name: 'Jean Long Sleeve',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
+        name: 'Graphic Sweatshirt',
+        imageUrl: 'https://i.ibb.co/9ZXgtz1/will-malott-x-Bb-IW24a-L7o-unsplash.jpg',
         price: 40
       },
       {
         id: 35,
-        name: 'Burgundy T-shirt',
-        imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+        name: 'White T-shirt',
+        imageUrl: 'https://i.ibb.co/h18Ps4m/taylor-Qc-Mlu-W4x56k-unsplash.jpg',
         price: 25
       }
     ]
